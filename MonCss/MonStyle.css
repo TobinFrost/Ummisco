@@ -1,0 +1,126 @@
+.form-signin{
+max-width: 300px;
+padding: 19px 29px 29px;
+margin: 0px auto 20px;
+background-color: #FFF;
+border: 1px solid #E5E5E5;
+border-radius: 5px;
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+}
+body{
+padding-top: 40px;
+padding-bottom: 40px;
+background-color: #F5F5F5;
+}
+#footer{
+background-color:  #FFF;
+height: 60px;
+
+}
+.container .credit {
+    margin: 20px 0px;
+}
+
+.sidebar-nav {
+    padding: 9px 0px;
+}
+
+.block-header{
+margin-bottom: 0px;
+border-right: medium none;
+border-left: medium none;
+border-radius: 0px;
+}
+
+.block-header div{
+	padding-top: 10px;
+}
+.block{
+border-right: 1px solid #CCC;
+border-width: medium 1px 1px;
+border-style: none solid solid;
+border-color: -moz-use-text-color #CCC #CCC;
+-moz-border-top-colors: none;
+-moz-border-right-colors: none;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+border-image: none;
+background: none repeat scroll 0% 0% #FFF;
+margin: 1em 0em;
+}
+.block-content{
+	margin: 1em;
+	min-height: 0.25em;
+}
+input[type="text"]{
+	height: 28px;
+}
+td{
+	font-size: 11.5px;
+    font-weight: bold;
+	
+     
+
+}
+
+#external-events {
+            float: left;
+            width: 100px;
+            padding: 0 10px;
+            border: 1px solid #ccc;
+            background: #eee;
+            text-align: left;
+            }
+            
+        #external-events h5 {
+            font-size: 16px;
+            margin-top: 0;
+            padding-top: 1em;
+            }
+            
+        .external-event { /* try to mimick the look of a real event */
+            margin: 10px 0;
+            padding: 2px 4px;
+            background: #3366CC;
+            color: #fff;
+            font-size: .85em;
+            cursor: pointer;
+            z-index: 99999999;
+            }
+            
+        #external-events p {
+            margin: 1.5em 0;
+            font-size: 11px;
+            color: #666;
+            }
+            
+        #external-events p input {
+            margin: 0;
+            vertical-align: middle;
+            }
+.nav-second-level li,
+.nav-third-level li {
+    border-bottom: none !important;
+}
+
+.nav-second-level li a {
+    padding-left: 37px;
+}
+
+.nav-third-level li a {
+    padding-left: 52px;
+}
+
+
+#Cahier{
+    background : url('../MonImage/lecahier.jpg') repeat;
+}
+.transparent{
+    background-color: rgba(255, 255, 255, 0);
+
+    border-color: rgba(255, 255, 255, 0);
+
+    font-style: italic;
+
+    font-weight: bold;
+}

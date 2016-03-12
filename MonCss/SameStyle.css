@@ -1,0 +1,39 @@
+.block-header{
+margin-bottom: 0px;
+border-right: medium none;
+border-left: medium none;
+border-radius: 0px;
+}
+
+.block-header div{
+	padding-top: 10px;
+}
+.block{
+border-right: 1px solid #CCC;
+border-left: 1px solid #CCC;
+border-bottom: 1px solid #CCC;
+border-width: medium 1px 1px;
+border-style: none solid solid;
+border-color: -moz-use-text-color #CCC #CCC;
+-moz-border-top-colors: none;
+-moz-border-right-colors: none;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+border-image: none;
+background: none repeat scroll 0% 0% #FFF;
+margin: 1em 0em;
+}
+.block-content{
+	margin: 1em;
+	min-height: 0.25em;
+}
+input[type="text"]{
+	height: 28px;
+}
+
+.label_div {
+	width: 120px;
+	float: left;
+	line-height: 28px;
+}
+
